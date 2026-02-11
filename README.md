@@ -80,10 +80,6 @@ I focus on delivering reliable, secure, and production-ready systems that operat
 
 ## 📈 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamndh34&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamndh34&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamndh34&theme=tokyonight)
 
 ---
