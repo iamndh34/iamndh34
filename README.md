@@ -1,10 +1,6 @@
 <h1 align="center">Duong Hai Nguyen</h1>
 <h3 align="center">Software Engineer | AI Engineer</h3>
 
-<p align="center">
-Building ERP Core Systems • On-Premise LLM Deployment • AI Agents • Graph RAG
-</p>
-
 ---
 
 ## 👨‍💻 About Me
