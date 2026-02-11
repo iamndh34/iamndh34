@@ -9,7 +9,7 @@ Building ERP Core Systems • On-Premise LLM Deployment • AI Agents • Graph 
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with many years of experience developing enterprise ERP systems and AI-driven business solutions.
+I am a Software Engineer with extensive experience designing and developing enterprise ERP systems and AI-driven business solutions.
 
 My core expertise lies in:
 
